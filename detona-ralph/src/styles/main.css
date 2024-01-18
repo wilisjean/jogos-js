@@ -1,3 +1,7 @@
+body{
+  cursor: url("../images/luva.png");
+}
+
 .container {
   display: flex;
   flex-direction: column;
@@ -22,6 +26,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  
 }
 
 .square {
